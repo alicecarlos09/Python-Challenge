@@ -58,7 +58,7 @@ file = open("output.txt","w")
 
 file.write("Financial Analysis" + "\n")
 
-file.write("...................................................................................." + "\n")
+file.write("........................................................." + "\n")
 
 file.write("total months: " + str(total_months) + "\n")
 
